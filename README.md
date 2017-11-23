@@ -1,9 +1,11 @@
-####Redis服务器
+#### Redis服务器
 
 $redis-server
 
-####Redis客户端
+#### Redis客户端
+
 $redis-cli
 
 退出
+
 $exit
